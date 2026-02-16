@@ -7,6 +7,5 @@ public class Main {
 
         UserService app = new UserService();
         app.run();
-
     }
 }
